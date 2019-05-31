@@ -1,0 +1,22 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "\"# Notification\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokeneko/Notification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokeneko/Notification/issues"
+  },
+  "homepage": "https://github.com/kokeneko/Notification#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
